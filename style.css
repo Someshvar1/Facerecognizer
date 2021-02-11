@@ -1,0 +1,16 @@
+body{
+    color:black;
+    background: aqua;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+#camera{
+    border: 4px ridge white;
+    width:350px;
+    height:300px;
+}
+.name_of_object,#result_object_name,#result_obect_accuracy{
+   color:yellow;
+}
