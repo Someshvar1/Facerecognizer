@@ -7,10 +7,9 @@ body{
     font-size: 22px;
 }
 #camera{
-    border: 4px ridge white;
-    width:350px;
-    height:300px;
+    width:350;
+    height:300;
 }
-.name_of_object,#result_object_name,#result_obect_accuracy{
-   color:yellow;
+.name_of_object,#result_object_name,#result_object_accuracy{
+   color:darkblue;
 }
